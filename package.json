@@ -1,0 +1,15 @@
+{
+  "name": "voluptatemveritatis",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  },
+  "author": "ValentinPouros",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SeamusAbbott/voluptatemveritatis.git"
+  },
+  "version": "1.0.0",
+  "bugs": {
+    "url": "https://github.com/SeamusAbbott/voluptatemveritatis.git/issues"
+  }
+}
